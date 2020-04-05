@@ -2,7 +2,9 @@
 Classifying images into four classes (Minion, Mickey Mouse, Simson, Poo)
 
 After saving a trained model,
+
 use google cloud platfor - app engine to deploy and launch the app in the browser.
+
 ( way to deploy : https://course.fast.ai/deployment_google_app_engine.html )
 
 
