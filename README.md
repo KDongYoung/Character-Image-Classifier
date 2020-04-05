@@ -8,6 +8,8 @@ use google cloud platfor - app engine to deploy and launch the app in the browse
 ( way to deploy : https://course.fast.ai/deployment_google_app_engine.html )
 
 
+
+
 [ gcloud app deploy에서 생기는 오류 해결 ]
 1. app.yaml 파일에 들어가서
 " resources:
