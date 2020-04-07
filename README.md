@@ -10,7 +10,8 @@ use google cloud platfor - app engine to deploy and launch the app in the browse
 
 
 
-# [ SOLVE THE ERRORS WHEN RUNNING THE LINE 'gcloud app deploy' ]
+# [ SOLVE THE ERRORS WHEN RUNNING THE LINE 
+#    'gcloud app deploy' ]
 1. Go into file 'app.yaml' and add the below code
 resources:
     memory_gb: 4 
